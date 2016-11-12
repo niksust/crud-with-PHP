@@ -9,7 +9,7 @@
 <body>
 <div class = "container">
 	<h2>Data Collection</h2>
-
+<!-- Mahir Hasan-->
 	<?php
 	if(!empty($_GET['meg'])){
 		echo $_GET['meg']."<br>"."<br>";}
